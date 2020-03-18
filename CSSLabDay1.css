@@ -1,0 +1,38 @@
+.pie {
+  position: relative;
+  margin-top: 15%;
+  margin-left: 37%;
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  border-radius: 50%;
+  background-color: blue;
+}
+ .red {
+ 	margin-left:-0px; 
+ 	margin-top:-2px;
+  width: 150px;
+  height: 150px;
+  border: 1px solid #000;
+  background: red;
+  border-radius: 151px 0 0 0;
+}
+.yellow {
+    margin-left:151px;
+    margin-top:-152px;
+  width: 150px;
+  height: 150px;
+  border: 1px solid #000;
+  background: yellow;
+  border-radius: 0 151px 0 0;
+}
+.green {
+    margin-left:151px;
+    margin-top:-2px;
+  width: 150px;
+  height: 150px;
+  border: 1px solid #000;
+  background: green;
+  border-radius: 0 0 151px 0;
+}
+
