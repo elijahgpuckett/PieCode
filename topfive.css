@@ -1,0 +1,60 @@
+.header {
+	padding: 30px;
+	text-align: center;
+	background: pink;
+	color: white;
+	font-size: 30px;
+}
+h1 {
+	border: 6px solid black;
+	border-radius: 10%;
+	padding: 10px 25px;
+	background-color: pink;
+	font-family: initial;
+	color: white;
+	text-align: center;
+}
+h2 {
+	color: white;
+}
+ol {
+	color: white;
+}
+body {
+	background-size: 100%;
+	background-image: url(https://www.worldatlas.com/r/w1200-h701-c1200x701/upload/9c/99/76/shutterstock-428582293.jpg);
+}
+p {
+	font-style: bold;
+	font-family: cursive;
+	border: 2px solid white;
+	background-color: black;
+	color: white;
+}
+.header {
+  background-color: pink;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.header a {
+  float: left;
+  color: #f2f2f2;
+  font-family: initial;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+/* Change the color of links on hover */
+.header a:hover {
+  background-color: black;
+  color: white;
+}
+
+/* Add a color to the active/current link */
+.header a.active {
+  background-color: black;
+  color: white;
+}
